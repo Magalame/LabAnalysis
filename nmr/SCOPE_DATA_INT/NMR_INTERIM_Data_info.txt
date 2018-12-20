@@ -1,0 +1,33 @@
+for all frequency = 20.81721Hz
+90deg pulse = 3.14us
+180deg pulse = 6.30us
+filter time constant set to 0.01ms unless otherwise spesified
+
+E_MQ_1_ 
+ch1: envolope
+ch2: Q mixer 
+90deg pulse
+
+E_RFO_1_
+ch1: envolope
+ch2: RF out
+90deg pulse
+
+E_MQ_2_ 
+ch1: envolope
+ch2: Q mixer 
+180deg pulse
+
+E_RFO_2_
+ch1: envolope
+ch2: RF out
+180deg pulse
+
+E_RF_NO_BL
+filter time const set to min 
+ch1: envolope
+ch2: RF out
+blanking turned off 
+
+PROBE
+signal from probe 

@@ -1,0 +1,11 @@
+T2 measurment while altering A_len and B_len
+5 trials for each set of values 
+naming: numbers following the A corsopnd to the A_len value in us with a decimal point after the first digit.
+there are 2 main types of trial here:
+1) where one _len value is kept constant at the value used for main expermint and the other is varied by \pm 0.10us
+2)A_len value is varried by \ps 0.2us and B_len set to double the A_len value 
+
+
+frequency = 20.81160
+N=10
+P=1s

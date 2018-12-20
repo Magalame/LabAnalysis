@@ -1,0 +1,10 @@
+T2 measurments made with various values of tau
+file nameing:
+first 4 digits tell you the vaule of tau i.e. 0005 = 0.005s
+last digit is the trail number from 0 to 5 (I did six for the last one just in case I might have accentdently saved the same data as 2 trials) 
+frequency = 20.81160
+A_len = 3.60us
+B_len = 7.20us
+N=10
+P=1s
+
